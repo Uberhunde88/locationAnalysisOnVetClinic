@@ -1,2 +1,2 @@
 # locationAnalysisOnVetClinic
-conducting
+building
